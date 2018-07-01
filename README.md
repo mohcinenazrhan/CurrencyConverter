@@ -14,6 +14,6 @@ CURRENCY CONVERTER
 
 1. npm install
 
-2. gulp : for Dev Env => File: src/temp
+2. gulp : for Dev Env => Folder: src/temp
 
-3. gulp prod : for Prod Env => File: ./dist 
+3. gulp prod : for Prod Env => Folder: ./dist 
