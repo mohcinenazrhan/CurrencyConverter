@@ -5,7 +5,7 @@ self.importScripts('serviceworker-cache-polyfill.js');
 var cacheName = 'CurrencyConverterPWA-v1';
 var dataCacheName = 'CurrencyConverterData-v1';
 
-var filesToCache = ['/', '/index.html', '/js/app.js', '/css/style.css', '/css/icons/exchange.svg'];
+var filesToCache = ['/CurrencyConverter/', '/CurrencyConverter/index.html', '/CurrencyConverter/js/app.js', '/CurrencyConverter/css/style.css', '/CurrencyConverter/css/icons/exchange.svg'];
 
 /**
  * When SW is installed : cache all files
