@@ -20,7 +20,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-htmlmin": "^4.0.0",
     "gulp-plumber": "^1.2.0",
-    "gulp-sass": "^4.0.1",
+    "gulp-sass": "^5.1.0",
     "gulp-string-replace": "^1.1.0",
     "gulp-uglify-es": "^1.0.4",
     "gulp-uglifycss": "^1.1.0",
